@@ -1,1 +1,2 @@
-The line is written in the branch
+The line is written in the branch.
+This line is also written in main branch.
