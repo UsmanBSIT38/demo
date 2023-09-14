@@ -2,3 +2,4 @@ The line is written in the branch.
 This line is also written in main branch.
 
 This line represents fetured1.
+This line also represents fetured1.
