@@ -7,5 +7,6 @@ this line written in 2nd feturd.
 this line also written in 2nd feturd.
 this line also written in 2nd feturde .
 
- ak commit
- ak also commit
+this line is feture 3.
+this libne is also feture 3S
+git 
