@@ -1,9 +1,15 @@
 The line is written in the branch.
 This line is also written in main branch.
 
+This line represents fetured1.
+This line also represents fetured1.
 this line written in 2nd feturd.
 this line also written in 2nd feturd.
 this line also written in 2nd feturde .
+<<<<<<< HEAD
 
 this line is feture 3.
 this libne is also feture 3S
+=======
+ 
+>>>>>>> main
